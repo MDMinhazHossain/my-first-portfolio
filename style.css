@@ -1,5 +1,10 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+section{
+    padding-bottom: 700px;
 }
 
 .first-heading{
@@ -34,3 +39,22 @@ body{
     color: yellow;
     font-size: 22px;
 }
+
+
+.last-heading{
+    font-size: 45px
+}
+
+.shadow{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    height: 300px;
+}
+
+#side-border{
+    border-left: 7px solid blue;
+    
+}
+ footer{
+     text-align: center;
+ }
